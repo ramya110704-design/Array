@@ -13,6 +13,7 @@ public class AverageDouble{
         }
         double avg = sum/n;
         System.out.println("Average: "+avg);
+        sc.close();
     }
 }
     
